@@ -33,7 +33,7 @@ const programs = [
     duration: '8 months',
     learners: '1,200+',
     level: 'Senior',
-    badge: '⭐ Editor's Choice',
+    badge: "⭐ Editor's Choice",
     color: '#0891b2',
   },
   {
